@@ -1,0 +1,45 @@
+/* Page background and font */
+body {
+  background-color: #e6f2ff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Heading style */
+h1 {
+  color: darkblue;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Paragraph style */
+p {
+  color: #333;
+  font-size: 18px;
+  padding: 10px 20px;
+}
+
+/* Button style */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* Button hover effect */
+button:hover {
+  background-color: #45a049;
+}
+
+/* Custom class */
+.card {
+  background-color: white;
+  margin: 20px;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
